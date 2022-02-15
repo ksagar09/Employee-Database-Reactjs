@@ -1,9 +1,9 @@
 import React from "react";
-import EmpDetails from './components/EmpDetails';
+import EmployeeDetails from './components/EmployeeDetails';
 
 const App = () => {
   return(
-  <EmpDetails/>
+  <EmployeeDetails/>
   )
 };
 
